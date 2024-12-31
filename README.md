@@ -1,5 +1,4 @@
 # Streamming-Tiki-E-Commerce
-Overview:
 This project involves building an end-to-end data pipeline that integrates real-time data crawling from the Tiki API, storing and processing it on Azure Cloud, and leveraging analytics and machine learning to extract actionable insights. The system is designed to automate data ingestion, processing, and visualization, ensuring seamless scalability and adaptability for real-time and batch processing.
 Project Workflow:
 
