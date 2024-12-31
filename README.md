@@ -32,3 +32,8 @@ Azure Blob Storage: For scalable and secure data storage.
 Azure Databricks: For data processing, transformation, and machine learning.
 PySpark: For distributed data processing and analysis.
 Power BI: For creating interactive dashboards and visualizations.
+
+
+system architecture
+![alt text](pipeline.jpg)
+
